@@ -32,3 +32,5 @@ elif zaehler >= 5 and zaehler < 10:
     print("Eine starke Leistung! Das waren nur", zaehler, "Versuche!")
 else:
     print("Eine ganz schwache Leistung. Dieses Mal hast Du es leider nicht geschafft. Deine 10 Versuche sind um.")
+
+print("Die Sonne scheint!")
